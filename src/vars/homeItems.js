@@ -1,7 +1,7 @@
-var myName = 'Fayaz Bin Salam'
-var myOccupation = 'Programmer & Software Developer'
-var myDetails = 'Hello, I am Fayaz Bin Salam. I love Programming, making application/software for Mobile, Web and Desktop. For me, A Computer or A Mobile phone is nothing but some plastics and metals. But when it understands my language, it feels like a miracle!\nI started programming as a hobby since 2009. Wrote my first few scripts in Batch and VBScript. Later I learned C, C++, Java, Python, JavaScript etc, Worked in so many libraries & frameworks like ReactJS(one of my favorites), Angular2+, NodeJS, worked using so many technologies like Git, Arduino, etc. It does feel amazing to see myself improving. Hope to improve everything around me one day...'
-var myImageLink = "https://i.imgur.com/nRNlRdL.jpg"
+var myName = 'S.M Sifat Haider Jamali'
+var myOccupation = 'Software Developer'
+var myDetails = 'Hello, I am Sifat Haider Jamali. I love Programming, making application/software for Mobile, Web and Desktop. I have a professional certificate in Dot Net Development.\nI I love work in OOP. I learned C, C++, Java, C#, Python, JavaScript, PHP. Worked in so many libraries & frameworks like .Net(one of my favorites), Laravel, worked using technologies like Git, Arduino, etc. Always forward to improve myself. One of my favorite quote is "earn to learn"'
+var myImageLink = "https://i.imgur.com/5t7rVR4.png"
 
 module.exports = {
     myName, myOccupation, myDetails, myImageLink

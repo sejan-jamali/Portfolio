@@ -32,25 +32,11 @@ export var upperItems = [
 ]
 
 export const lowerItems = [
-    {
-        myName: 'Blog',
-        URL: 'http://p32929.wordpress.com/'
-    },
+    
     {
         myName: 'Facebook',
-        URL: 'http://facebook.com/p32929'
+        URL: 'https://www.facebook.com/sifathaider.jamali.3'
     },
-    {
-        myName: 'Twitter',
-        URL: 'http://twitter.com/p32929'
-    },
-    {
-        myName: 'Instagram',
-        URL: 'http://instagram.com/p32929'
-    },
-    {
-        myName: 'YouTube',
-        URL: 'https://www.youtube.com/channel/UC4T4Qi_DDvLKz9o4VhUjz4Q'
-    },
+    
 
 ]
