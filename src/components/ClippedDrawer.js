@@ -78,11 +78,11 @@ function ClippedDrawer(props) {
                     <AppBar position="fixed" className={classes.appBar}>
                         <Toolbar>
                             <Typography variant="h6" color="inherit" noWrap className={classes.grow}>
-                                Fayaz Bin Salam
+                                Sifat Haider Jamali
                             </Typography>
 
                             <IconButton
-                                href="https://github.com/p32929"
+                                href="https://github.com/sejan-jamali"
                                 color="inherit">
                                 <SvgIcon>
                                     <path
